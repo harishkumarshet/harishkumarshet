@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### Software:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/harishkumarshet/harishkumarshet/blob/master/figma.png" />][harishkumarshet]
-
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/harishkumarshet/harishkumarshet/blob/master/Photoshop.png" />][harishkumarshet]
 
 
 <br/>
