@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 <br/>
 
 ### Software:
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/evolvingkid/evolvingkid/blob/master/download.png" />][evolvingkid]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://https://images.ctfassets.net/1khq4uysbvty/2MbBsf9yEw40SMw6gK0Mmg/35f39d41f167b6615bd80517b4b67bcd/1_6XgfDCVn81AYX68Xvd2I-g_2x.png?&w=736/>][evolvingkid]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/harishkumarshet/harishkumarshet/blob/master/figma.png" />][harishkumarshet]
+
 
 
 <br/>
@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 
 
 [website]: https://www.instagram.com/kochiboy/
-[evolvingkid]: https://github.com/evolvingkid
+[evolvingkid]: https://github.com/harishkumarshet
