@@ -1,4 +1,4 @@
-### UI Designer🖥️ | Illustration🎨 
+### UI Designer🖥️ | Illustrator🎨 
 
 <!--
 **harishkumarshet/harishkumarshet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
